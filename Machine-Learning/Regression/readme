@@ -1,1 +1,9 @@
+End-to-end problem solving process
+ 1. Data reading and preprocessing: missing data, scaling
+ 2. Algorithm selection: LinearRegression, Ridge, Lasso, KNeighbors, SVM, Decision Tree, RandomForest, XGBoost
+ 3. Model Evaluation: train-test split, k-fold cross validation, stratified cv, metrics (mse,r2,etc)
+ 4. Hyperparameter tuning: grid search
+ 5. Final model Saving into disk and loading
 
+Examples: Calfornia housing price (StatLib), Boston house price (UCI)
+ 

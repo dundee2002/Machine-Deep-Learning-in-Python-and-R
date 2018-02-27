@@ -1,1 +1,6 @@
+End-to-end problem solving process
+ 1. Data reading and preprocessing: missing data, visualization, scaling
+ 2. Algorithm selection: K-Means, Hierarchical
+ 3. Optimal cluster selection: Elbow method, Dendrogram
 
+Examples: ISLR college data, sklearn make_blobs data, kaggle social network ad data

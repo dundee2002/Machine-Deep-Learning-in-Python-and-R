@@ -1,1 +1,5 @@
+End-to-end problem solving process
+ 1. Data reading and preprocessing: missing data, visualization, scaling
+ 2. Algorithm selection: PCA, Kernel PCA, LDA
 
+Examples: UCI wine, pima indians diabetes data, kaggle titanic data

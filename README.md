@@ -1,7 +1,7 @@
 # Machine-Deep-Learning
 
   ## Machine Learning
-    Regression
+    ### Regression
     Classification
     Clustering
     Dimensionality Reduction

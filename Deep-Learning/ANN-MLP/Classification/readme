@@ -1,11 +1,10 @@
 End-to-end problem solving process
- 1. Data reading and preprocessing: missing data, visualizing, scaling
- 2. Algorithm selection: LinearRegression, Ridge, Lasso, KNeighbors, SVM, Decision Tree, RandomForest, XGBoost
- 3. Model Evaluation: train-test split, k-fold cross validation, learning curves, metrics (mse,r2-score)
- 4. Hyperparameter tuning: grid search (hidden layers, nodes, batch_size, epochs, initializer, optimizer, activation function, dropout, etc)
+ 1. Data reading and preprocessing: missing data, visualization, scaling
+ 2. Baseline model selection: hidden layers, nodes
+ 3. Model Evaluation: train-test split, k-fold cross validation, stratified cv, learning curves, metrics (accuracy,recall,precision,f1-score,confusion matrix)
+ 4. Hyperparameter tuning: grid search (batch_size, epochs, initializer, optimizer, activation function, dropout, etc)
  5. Final model Saving into disk and loading
 
-Examples: StatLib Calfornia housing price, UCI Boston house price 
-
-
-
+Examples: 
+ 1. Binary classification: ISLR college data, kaggle HR, titanic data, UCI pima indians diabetes, breast cancer data
+ 2. Multi-class classification: kaggel otto data, UCI iris, wine data

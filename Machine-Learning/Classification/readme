@@ -1,11 +1,20 @@
-End-to-end problem solving process
+End-to-end ML Modeling process for classification problem
  1. Data reading and preprocessing: missing data, visualization, scaling
  2. Algorithm selection: LogisticRegression, LinearDiscriminantAnalysis, KNeighbors, GaussianNB, SVM, DecisionTree, RandomForest, XGBoost
  3. Model Evaluation: train-test split, k-fold cross validation, stratified cv, metrics (accuracy,recall,precision,f1-score,confusion matrix)
  4. Hyperparameter tuning: grid search
  5. Final model Saving into disk and loading
 
+Algorithms
+ 1. Logistic Regression
+ 2. Linear Discriminant Analysis
+ 3. K-Nearest Neighbors
+ 4. Naive Bayes
+ 5. Decision Tree
+ 6. Support Vector Machine
+ 7. Random Forest
+ 8. XGBoost
+ 
 Examples: 
  1. Binary classification: ISLR college data, kaggle HR, titanic data, UCI pima indians diabetes, breast cancer data
  2. Multi-class classification: kaggel otto data, UCI iris, wine data
- 

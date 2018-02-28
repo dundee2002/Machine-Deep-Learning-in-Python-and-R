@@ -1,4 +1,4 @@
-End-to-end MLP modeling process
+End-to-end MLP modeling process for classification problem
  1. Data loading and preprocessing: missing data, visualization, scaling
  2. Baseline model architecture selection: hidden layers, neurons
  3. Model evaluation: train-test split, k-fold cross validation, stratified cv, learning curves, metrics (accuracy,recall,precision,f1-score,confusion matrix)

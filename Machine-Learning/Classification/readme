@@ -1,26 +1,26 @@
 End-to-end ML Modeling process for classification problem
- 1. Data reading and preprocessing: missing data, visualization, scaling
- 2. Algorithm selection: LogisticRegression, LinearDiscriminantAnalysis, KNeighbors, GaussianNB, SVM, DecisionTree, RandomForest, XGBoost
- 3. Model Evaluation: train-test split, k-fold cross validation, stratified cv, metrics (accuracy,recall,precision,f1-score,confusion matrix)
- 4. Hyperparameter tuning: grid search
- 5. Final model Saving into disk and loading
+  1. Data reading and preprocessing: missing data, visualization, scaling
+  2. Algorithm selection: LogisticRegression, LinearDiscriminantAnalysis, KNeighbors, GaussianNB, SVM, DecisionTree, RandomForest, XGBoost
+  3. Model Evaluation: train-test split, k-fold cross validation, stratified cv, metrics (accuracy,recall,precision,f1-score,confusion matrix)
+  4. Hyperparameter tuning: grid search
+  5. Final model Saving into disk and loading
 
 Algorithms
- 1. Logistic Regression
- 2. Linear Discriminant Analysis
- 3. K-Nearest Neighbors
- 4. Naive Bayes
- 5. Decision Tree
- 6. Support Vector Machine
- 7. Random Forest
- 8. XGBoost
+  1. Logistic Regression
+  2. Linear Discriminant Analysis
+  3. K-Nearest Neighbors
+  4. Naive Bayes
+  5. Decision Tree
+  6. Support Vector Machine
+  7. Random Forest
+  8. XGBoost
  
 Examples: 
- 1. ISLR college data (binary class)
- 2. kaggle HR data (binary class)
- 3. kaggle titanic data (binary class)
- 4. UCI pima indians diabetes data (binary class)
- 5. UCI breast cancer data (binary class)
- 6. kaggle otto data (multi-class)
- 7. UCI iris data (multi-class)
- 8. UCI wine data (multi-class)
+  1. ISLR college data (binary class)
+  2. kaggle HR data (binary class)
+  3. kaggle titanic data (binary class)
+  4. UCI pima indians diabetes data (binary class)
+  5. UCI breast cancer data (binary class)
+  6. kaggle otto data (multi-class)
+  7. UCI iris data (multi-class)
+  8. UCI wine data (multi-class)

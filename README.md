@@ -29,3 +29,10 @@ Deep Learning using Keras & Tensorflow
   - Classification
 - Convolutional Neural Network (CNN)
 - Reccurent Neural Network (RNN)
+
+
+Big Data Machine Learning using pyspark mllib package
+============
+- Regression
+- Classification: binary or multi-class
+- Clustering

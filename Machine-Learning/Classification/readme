@@ -7,11 +7,11 @@ End-to-end ML Modeling process for classification problem
 
 Algorithms
   1. Logistic Regression
-  2. Linear Discriminant Analysis
-  3. K-Nearest Neighbors
-  4. Naive Bayes
+  2. Linear Discriminant Analysis (LDA)
+  3. K-Nearest Neighbors (KNN)
+  4. Naive Bayes (NB)
   5. Decision Tree
-  6. Support Vector Machine
+  6. Support Vector Machine (SVM)
   7. Random Forest
   8. XGBoost
  

@@ -3,4 +3,4 @@ End-to-end problem solving process
  2. Algorithm selection: K-Means, Hierarchical
  3. Optimal cluster selection: Elbow method, Dendrogram
 
-Examples: ISLR college data, sklearn make_blobs data, kaggle social network ad data
+Examples: ISLR college data, sklearn make_blobs data, kaggle social network ads, mall customers data

@@ -1,10 +1,17 @@
 End-to-end MLP modeling process for classification problem
- 1. Data loading and preprocessing: missing data, visualization, scaling
- 2. Baseline model architecture selection: hidden layers, neurons
- 3. Model evaluation: train-test split, k-fold cross validation, stratified cv, learning curves, metrics (accuracy,recall,precision,f1-score,confusion matrix)
- 4. Hyperparameter tuning: grid search (batch_size, epochs, initializer, optimizer, activation function, dropout, etc)
- 5. Final model Saving into disk and loading
+  1. Data loading and preprocessing: missing data, visualization, scaling
+  2. Baseline model architecture selection: hidden layers, neurons
+  3. Model evaluation: train-test split, k-fold cross validation, stratified cv, learning curves, metrics (accuracy,recall,precision,f1-score,confusion matrix)
+  4. Hyperparameter tuning: grid search (batch_size, epochs, initializer, optimizer, activation function, dropout, etc)
+  5. Final model Saving into disk and loading
 
-Examples: 
- 1. Binary classification: ISLR college data, kaggle HR, titanic data, UCI pima indians diabetes, breast cancer data
- 2. Multi-class classification: kaggel otto data, UCI iris, wine data
+Examples
+  1. ISLR college data (binary class)
+  2. kaggle HR data (binary class)
+  3. kaggle titanic data (binary class)
+  4. UCI pima indians diabetes data (binary class)
+  5. UCI breast cancer data (binary class)
+  6. kaggel otto data (muiti-class)
+  7. UCI iris data (muiti-class)
+  8. UCI wine data (muiti-class)
+  

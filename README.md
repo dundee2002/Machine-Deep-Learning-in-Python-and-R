@@ -3,7 +3,7 @@ Machine Learning using python scikit-learn library
 End-to-end modelling process
 ------------
 - Data loading and preprocessing: missing data, visualizing, scaling, etc
-- Algorithm selecting 
+- Algorithm selection 
 - Model evaluation : train-test split, cross validation, metrics, etc
 - Hyperparameter tuning 
 - Final model saving to disk and loading  

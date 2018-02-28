@@ -2,11 +2,11 @@ Machine Learning using python scikit-learn library
 ============
 End-to-end modelling process
 ------------
-- Loading and preprocessing Data: missing data, visualizing, scaling, etc
-- Selecting Algorithm
-- Evaluating Model: train-test split, cross validation, metrics, etc
-- Tuning hyperparameters
-- Saving and loading Final Model to disk
+- Data loading and preprocessing: missing data, visualizing, scaling, etc
+- Algorithm selecting 
+- Model evaluation : train-test split, cross validation, metrics, etc
+- Hyperparameter tuning 
+- Final model saving to disk and loading  
 
 Category of problems
 ------------
@@ -20,6 +20,7 @@ Algorithms
 - Regression/Classification: Linear Regression, Ridge, Lasso, Logistic Regression, Linear Discriminant Analysis (LDA), Naive Bayes, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, Random Forest, XGBoost
 - Clustering: K-Means clustering, Hierarchical clustering
 - Dimensionality Reduction: Principal Component Analysis (PCA), kernel PCA, LDA
+  
   
 Deep Learning using Keras & Tensorflow
 ============

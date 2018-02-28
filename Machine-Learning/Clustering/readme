@@ -8,7 +8,7 @@ Algorithms
  2. Hierarchical Clustering
 
 Examples
-1. ISLR college data (2 clusters)
-2. kaggle social network ads (2 clusters)
-3. sklearn make_blobs data (4 clusters)
-4. kaggle mall customers data (5 clusters)
+ 1. ISLR college data (2 clusters)
+ 2. kaggle social network ads (2 clusters)
+ 3. sklearn make_blobs data (4 clusters)
+ 4. kaggle mall customers data (5 clusters)

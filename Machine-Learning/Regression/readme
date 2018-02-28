@@ -1,8 +1,20 @@
-End-to-end problem solving process
- 1. Data reading and preprocessing: missing data, visualizing, scaling
- 2. Algorithm selection: LinearRegression, Ridge, Lasso, KNeighbors, SVM, Decision Tree, RandomForest, XGBoost
- 3. Model Evaluation: train-test split, k-fold cross validation, metrics (mse,r2-score)
- 4. Hyperparameter tuning: grid search
- 5. Final model Saving into disk and loading
+End-to-end ML modelling process for regression problem
+  1. Data reading and preprocessing: missing data, visualizing, scaling
+  2. Algorithm selection: LinearRegression, Ridge, Lasso, KNeighbors, SVM, Decision Tree, RandomForest, XGBoost
+  3. Model Evaluation: train-test split, k-fold cross validation, metrics (mse,r2-score)
+  4. Hyperparameter tuning: grid search
+  5. Final model Saving into disk and loading
 
-Examples: StatLib Calfornia housing price, UCI Boston house price 
+Algorithms
+  1.Linear Regression
+  2. Ridge
+  3. Lasso
+  4. KNeighbors
+  5. SVM
+  6. Decision Tree
+  7. RandomForest
+  8. XGBoost  
+
+Examples
+  1. StatLib Calfornia housing price
+  2. UCI Boston house price 

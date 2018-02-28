@@ -6,7 +6,7 @@ End-to-end ML modelling process for regression problem
   5. Final model Saving into disk and loading
 
 Algorithms
-  1.Linear Regression
+  1. Linear Regression
   2. Ridge
   3. Lasso
   4. KNeighbors

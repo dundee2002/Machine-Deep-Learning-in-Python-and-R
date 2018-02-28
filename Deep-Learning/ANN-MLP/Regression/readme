@@ -1,4 +1,4 @@
-End-to-end problem solving process
+End-to-end MLP modelling process for regression problem
  1. Data reading and preprocessing: missing data, visualizing, scaling
  2. Baseline model selection: hidden layers, nodes
  3. Model Evaluation: train-test split, k-fold cross validation, learning curves, metrics (mse,r2-score)

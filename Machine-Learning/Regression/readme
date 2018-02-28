@@ -9,10 +9,10 @@ Algorithms
   1. Linear Regression
   2. Ridge
   3. Lasso
-  4. KNeighbors
-  5. SVM
+  4. K-Nearest Neighbors (KNN)
+  5. Support Vector Machine (SVM)
   6. Decision Tree
-  7. RandomForest
+  7. Random Forest
   8. XGBoost  
 
 Examples

@@ -24,5 +24,7 @@ Algorithms
 Deep Learning using Keras & Tensorflow
 ============
 - Artificial Neural Network (ANN)-Multiple Layer Perceptron (MLP)
+  - Regression
+  - Classification
 - Convolutional Neural Network (CNN)
 - Reccurent Neural Network (RNN)

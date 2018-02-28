@@ -1,8 +1,10 @@
 End-to-end MLP modelling process for regression problem
- 1. Data reading and preprocessing: missing data, visualizing, scaling
- 2. Baseline model selection: hidden layers, nodes
- 3. Model Evaluation: train-test split, k-fold cross validation, learning curves, metrics (mse,r2-score)
- 4. Hyperparameter tuning: grid search (batch_size, epochs, initializer, optimizer, activation function, dropout, etc)
- 5. Final model Saving into disk and loading
+  1. Data reading and preprocessing: missing data, visualizing, scaling
+  2. Baseline model selection: hidden layers, nodes
+  3. Model Evaluation: train-test split, k-fold cross validation, learning curves, metrics (mse,r2-score)
+  4. Hyperparameter tuning: grid search (batch_size, epochs, initializer, optimizer, activation function, dropout, etc)
+  5. Final model Saving into disk and loading
 
-Examples: StatLib Calfornia housing price, UCI Boston house price 
+Examples
+  1. StatLib Calfornia housing price
+  2. UCI Boston house price

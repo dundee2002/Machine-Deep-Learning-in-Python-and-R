@@ -14,6 +14,7 @@ Category of problems
 - Classification: binary or multi-class
 - Clustering
 - Dimensionality Reduction
+- Natural Laguage Processing
 
 Algorithms
 ------------

@@ -1,5 +1,13 @@
+End-to-end ML modelling process with natural language processing
+  1. Natural Language Processing (NLP)
+     - text clean: removing puntuations, stopwords, stemming
+     - tokenization: creating a bag-of-words model
+     - Term frequency–Inverse document frequency (TF-IDF) scoring
+  2. Regression/Classification/Clustering
+
 Examples:
   1. kaggle IMDB sentiment analysis data
-  2. kaggle yelp business rating data
+  2. kaggle Yelp business rating data
   3. UCI Spam Collection data
-  4. UCI Yelp Review data
+  4. UCI Yelp restaurant review data
+  5. UCI Amazon product review data

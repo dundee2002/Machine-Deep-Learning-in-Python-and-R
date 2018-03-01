@@ -21,17 +21,16 @@ Machine Learning using python scikit-learn library
 - Regression/Classification: Linear Regression, Ridge, Lasso, Logistic Regression, Linear Discriminant Analysis (LDA), Naive Bayes, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, Random Forest, XGBoost
 - Clustering: K-Means clustering, Hierarchical clustering
 - Dimensionality Reduction: Principal Component Analysis (PCA), kernel PCA, LDA
+- Natural Laguage Processing
   
 Deep Learning using Keras & Tensorflow
 ============
 - Artificial Neural Network (ANN)-Multiple Layer Perceptron (MLP)
-  - Regression
-  - Classification
-  - Natural Laguage Processing
+  - Regression, Classification, Natural Laguage Processing
 - Convolutional Neural Network (CNN)
   - Natural Laguage Processing
 - Reccurent Neural Network (RNN)
-  - Natural Laguage Processing
+  - Natural Laguage Processing 
 
 Big Data Machine Learning using pyspark MLlib
 ============

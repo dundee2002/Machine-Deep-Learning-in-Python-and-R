@@ -1,9 +1,7 @@
-End-to-end ML modelling process with natural language processing
-  1. Natural Language Processing (NLP)
-     - text clean: removing puntuations, stopwords, stemming
-     - tokenization: creating a bag-of-words model
-     - Term frequency–Inverse document frequency (TF-IDF) scoring
-  2. Regression/Classification/Clustering
+End-to-end Natural Language Processing (NLP)
+  1. text clean: removing puntuations, stopwords, stemming
+  2. tokenization: creating a bag-of-words model
+  3. Term frequency–Inverse document frequency (TF-IDF) scoring
 
 Examples:
   1. kaggle IMDB sentiment analysis data

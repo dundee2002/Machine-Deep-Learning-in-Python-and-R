@@ -1,7 +1,7 @@
 End-to-end Natural Language Processing (NLP)
-  1. text clean: removing puntuations, stopwords and HTML tags, stemming
-  2. tokenization: creating a bag-of-words model
-  3. Term frequency–Inverse document frequency (TF-IDF) scoring
+  1. text cleaning: removing puntuations, numbers, stopwords and HTML tags, stemming
+  2. text tokenizing and creating a bag-of-words model
+  3. word scoring: binary, count, frequency, Term frequency–Inverse document frequency (TF-IDF)
 
 Examples:
   1. kaggle IMDB sentiment analysis data

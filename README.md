@@ -28,7 +28,7 @@ Deep Learning using Keras & Tensorflow
 - Artificial Neural Network (ANN)-Multiple Layer Perceptron (MLP)
   - Regression, Classification, Natural Laguage Processing
 - Convolutional Neural Network (CNN)
-  - Natural Laguage Processing
+  - Image Classification, Natural Laguage Processing
 - Reccurent Neural Network (RNN)
   - Natural Laguage Processing 
 

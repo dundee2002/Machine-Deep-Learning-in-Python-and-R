@@ -16,7 +16,7 @@ Category of problems
 - Dimensionality Reduction
 - Natural Laguage Processing (NLP)
 - Image Recognition
-- Time Series Analysis
+- Time Series Prediction
 
 Machine Learning using python scikit-learn library
 ============

@@ -15,6 +15,8 @@ Category of problems
 - Clustering
 - Dimensionality Reduction
 - Natural Laguage Processing (NLP)
+- Image Recognition
+- Time Series Analysis
 
 Machine Learning using python scikit-learn library
 ============

@@ -1,3 +1,5 @@
 Examples:
-  1. keras MNIST database of handwritten digits
+  1. kaggle Dogs vs. Cats image data
+  2. keras MNIST database of handwritten digits
   2. keras CIFAR10 dataset of small images
+  3. keras Fashion-MNIST database of fashion articles

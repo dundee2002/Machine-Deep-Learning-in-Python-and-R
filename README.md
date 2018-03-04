@@ -32,7 +32,7 @@ Deep Learning using Keras & Tensorflow
 - Convolutional Neural Network (CNN)
   - Image Recognition, Natural Laguage Processing
 - Reccurent Neural Network (RNN)
-  - Natural Laguage Processing 
+  - Time Series Prediction, Natural Laguage Processing 
 
 Big Data Machine Learning using pyspark MLlib
 ============

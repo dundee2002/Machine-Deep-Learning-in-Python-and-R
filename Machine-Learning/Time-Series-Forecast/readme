@@ -1,1 +1,8 @@
-
+End-to-end ML modelling process for timeseries forecast
+  1. Data reading and preprocessing: autocorrelation, stationary checking
+  2. Persistence modelling (baseline)
+  3. Autoregressive Integrated Moving Average (ARIMA) modelling
+  4. Hyperparameter tuning
+  
+Examples
+  1. Datamarket Milk Production Data

@@ -16,14 +16,15 @@ Category of problems
 - Dimensionality Reduction
 - Natural Laguage Processing (NLP)
 - Image Recognition
-- Time Series Prediction
+- Time Series Forecast
 
 Machine Learning using python scikit-learn library
 ============
 - Regression/Classification: Linear Regression, Ridge, Lasso, Logistic Regression, Linear Discriminant Analysis (LDA), Naive Bayes, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, Random Forest, XGBoost
 - Clustering: K-Means clustering, Hierarchical clustering
 - Dimensionality Reduction: Principal Component Analysis (PCA), kernel PCA, LDA
-- Natural Laguage Processing 
+- Natural Laguage Processing
+- Time Series Forecast: Persistence Model, Autoregressive Integrated Moving Average (ARIMA) Model
   
 Deep Learning using Keras & Tensorflow
 ============
@@ -32,7 +33,7 @@ Deep Learning using Keras & Tensorflow
 - Convolutional Neural Network (CNN)
   - Image Recognition, Natural Laguage Processing
 - Reccurent Neural Network (RNN)
-  - Time Series Prediction, Natural Laguage Processing 
+  - Time Series Forecast, Natural Laguage Processing 
 
 Big Data Machine Learning using pyspark MLlib
 ============

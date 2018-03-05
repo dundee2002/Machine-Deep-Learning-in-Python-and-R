@@ -1,1 +1,15 @@
+End-to-end ML modelling process for regression problem
+  1. Data reading and preprocessing
+  2. Algorithm selection
+  3. Model Evaluation: train-test split, k-fold cross validation, metrics (mse,r2-score)
+  4. Hyperparameter tuning: grid search
 
+Algorithms
+  1. Linear Regression (ordinary least squares,Ridge,Lasso,ElasticNet)
+  2. Decision Tree
+  3. Random Forest
+  4. Gradient-boosted trees (GBT)  
+
+Examples
+  1. UCI Boston house price data
+  2. Hyundai Heavy Industry Cruise ship data

@@ -10,7 +10,8 @@ Algorithms
   3. Decision Tree
   4. Support Vector Machine (SVM)
   5. Random Forest
-  6. Gradient Boosting Tree
+  6. Gradient Boosting Tree (GBT)
  
 Examples
   1. kaggle titanic data (binary class)
+  2. UCI wine data (multiclass)

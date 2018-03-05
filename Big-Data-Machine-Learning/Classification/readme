@@ -1,1 +1,17 @@
+End-to-end ML Modeling process for classification problem
+  1. Data reading and preprocessing: missing data, visualization, scaling
+  2. Algorithm selection
+  3. Model Evaluation: train-test split, k-fold cross validation, stratified cv, metrics (accuracy,recall,precision,f1-score,confusion matrix)
+  4. Hyperparameter tuning: grid search
 
+Algorithms
+  1. Logistic Regression
+  2. Naive Bayes (NB)
+  3. Decision Tree
+  4. Support Vector Machine (SVM)
+  5. Random Forest
+  6. Gradient Boosting Tree (GBT)
+ 
+Examples
+  1. kaggle titanic data (binary class)
+  2. UCI wine data (multiclass)

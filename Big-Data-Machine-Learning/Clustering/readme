@@ -1,1 +1,7 @@
+End-to-end ML modelling process for clustering problem
+  1. Data reading and preprocessing: missing data, visualization, scaling
+  2. Optimal cluster selection: Elbow method for K-Means Clustering
 
+Examples
+  1. kaggle mall customers data (5 clusters)
+  2. UCI seed data (3 clusters)

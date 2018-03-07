@@ -18,7 +18,7 @@ Category of problems
 - Image Recognition
 - Time Series Forecast
 
-Machine Learning using python scikit-learn library
+Machine Learning using Python scikit-learn library
 ============
 - Regression/Classification: Linear Regression, Ridge, Lasso, Logistic Regression, Linear Discriminant Analysis (LDA), Naive Bayes, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, Random Forest, XGBoost
 - Clustering: K-Means clustering, Hierarchical clustering
@@ -35,7 +35,7 @@ Deep Learning using Keras & Tensorflow
 - Reccurent Neural Network (RNN)
   - Time Series Forecast, Natural Laguage Processing 
 
-Big Data Machine Learning using pyspark MLlib
+Big Data Machine Learning using PySpark MLlib
 ============
 - Regression
 - Classification

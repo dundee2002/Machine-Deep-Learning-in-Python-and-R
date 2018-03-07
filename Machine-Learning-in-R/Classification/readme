@@ -19,8 +19,7 @@ Algorithms
   11. Stochastic Gradient Boosting
  
 Examples
-  1. ISLR college data (binary class)
-  2. UCI pima indians diabetes data (binary class)
-  3. UCI breast cancer data (binary class)
-  4. UCI iris data (multi-class)
-  5. UCI wine data (multi-class)
+  1. UCI pima indians diabetes data (binary class)
+  2. UCI breast cancer data (binary class)
+  3. UCI iris data (multi-class)
+  4. UCI wine data (multi-class)

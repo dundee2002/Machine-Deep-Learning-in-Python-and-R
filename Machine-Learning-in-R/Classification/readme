@@ -1,1 +1,26 @@
+End-to-end ML Modeling process for classification problem
+  1. Data reading and preprocessing: missing data, visualization, scaling
+  2. Algorithm selection
+  3. Model Evaluation: train-test split, k-fold cross validation, metrics (accuracy,recall,precision,f1-score,confusion matrix)
+  4. Hyperparameter tuning: grid search
+  5. Final model Saving into disk and loading
 
+Algorithms
+  1. Logistic Regression
+  2. Lasso, Ridge, Elastic Net
+  3. Linear Discriminant Analysis (LDA)
+  4. K-Nearest Neighbors (KNN)
+  5. Naive Bayes (NB)
+  6. Support Vector Machine (SVM)
+  7. Decision Tree (Classification & Regression Trees; CART)
+  8. C5.0
+  9. Bagged CART
+  10. Random Forest
+  11. Stochastic Gradient Boosting
+ 
+Examples
+  1. ISLR college data (binary class)
+  2. UCI pima indians diabetes data (binary class)
+  3. UCI breast cancer data (binary class)
+  4. UCI iris data (multi-class)
+  5. UCI wine data (multi-class)

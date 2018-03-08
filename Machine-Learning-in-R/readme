@@ -1,5 +1,14 @@
-Install R 
-https://www.r-project.org/
+End-to-end modelling process
+ - Data loading and preprocessing: missing data, visualizing, scaling, text preprocessing, etc
+ - Algorithm or architecture selection
+ - Model evaluation: train-test split, cross validation, metrics, etc
+ - Hyperparameter tuning
+ - Final model saving to disk and loading
+
+
+
+Install R:  https://www.r-project.org/
+
 
 Install R Studio
 https://www.rstudio.com/products/rstudio/

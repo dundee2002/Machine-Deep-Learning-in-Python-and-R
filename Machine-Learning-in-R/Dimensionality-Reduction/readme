@@ -1,1 +1,12 @@
+End-to-end ML modelling process with compressed features
+  1. Data reading and preprocessing: missing data, visualization, scaling
+  2. Algorithm selection: PCA, Kernel PCA, LDA
 
+Algorithms
+  1. Principal Component Analysis (PCA)
+  2. Linear Discriminant Analysis (LDA)
+  3. Kernal PCA
+ 
+Examples
+  1. UCI wine data
+  2. kaggle social network ads data

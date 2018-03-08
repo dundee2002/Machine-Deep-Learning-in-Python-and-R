@@ -30,6 +30,7 @@ Machine Learning using R
 ============
 - Regression/Classification: Linear Regression, Partial Least Squares, Ridge, Lasso, Elastic Net, Logistic Regression, LDA, Naive Bayes, KNN, SVM, Decision Tree, Random Forest, Gradient Boost, Multivariate Adaptive Regression Splines (MARS)
 - Clustering: K-Means clustering, Hierarchical clustering
+- Dimensionality Reduction: PCA, kernel PCA, LDA
 
 Deep Learning using Keras & Tensorflow
 ============

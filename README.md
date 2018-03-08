@@ -20,12 +20,17 @@ Category of problems
 
 Machine Learning using Python scikit-learn library
 ============
-- Regression/Classification: Linear Regression, Ridge, Lasso, Logistic Regression, Linear Discriminant Analysis (LDA), Naive Bayes, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, Random Forest, XGBoost
+- Regression/Classification: Linear Regression, Ridge, Lasso, ElasticNet, Logistic Regression, Linear Discriminant Analysis (LDA), Naive Bayes, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, Random Forest, XGBoost
 - Clustering: K-Means clustering, Hierarchical clustering
 - Dimensionality Reduction: Principal Component Analysis (PCA), kernel PCA, LDA
 - Natural Laguage Processing
 - Time Series Forecast: Persistence Model, Autoregressive Integrated Moving Average (ARIMA) Model
-  
+
+Machine Learning using R
+============
+- Regression/Classification: Linear Regression, Ridge, Lasso, Elastic Net, Logistic Regression, LDA, Naive Bayes, KNN, SVM, Decision Tree, Random Forest, Gradient Boost
+- Clustering: K-Means clustering, Hierarchical clustering
+
 Deep Learning using Keras & Tensorflow
 ============
 - Artificial Neural Network (ANN)-Multiple Layer Perceptron (MLP)

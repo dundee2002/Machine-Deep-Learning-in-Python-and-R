@@ -1,1 +1,12 @@
+End-to-end ML modelling process for clustering problem
+  1. Data reading and preprocessing: missing data, visualization, scaling
+  2. Algorithm selection: K-Means, Hierarchical
+  3. Optimal cluster selection: Elbow method, Dendrogram
+ 
+Algorithms
+  1. K-Means Clustering
+  2. Hierarchical Clustering
 
+Examples
+  1. UCI Iris data (2 clusters)
+  2. kaggle mall customers data (5 clusters)

@@ -28,7 +28,7 @@ Machine Learning using Python scikit-learn library
 
 Machine Learning using R
 ============
-- Regression/Classification: Linear Regression, Ridge, Lasso, Elastic Net, Logistic Regression, LDA, Naive Bayes, KNN, SVM, Decision Tree, Random Forest, Gradient Boost
+- Regression/Classification: Linear Regression, Partial Least Squares, Ridge, Lasso, Elastic Net, Logistic Regression, LDA, Naive Bayes, KNN, SVM, Decision Tree, Random Forest, Gradient Boost, Multivariate Adaptive Regression Splines (MARS)
 - Clustering: K-Means clustering, Hierarchical clustering
 
 Deep Learning using Keras & Tensorflow

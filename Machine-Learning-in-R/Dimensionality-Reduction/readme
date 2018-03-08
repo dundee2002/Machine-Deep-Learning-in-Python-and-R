@@ -8,5 +8,6 @@ Algorithms
   3. Kernal PCA
  
 Examples
-  1. UCI wine data
-  2. kaggle social network ads data
+  1. kaggle social network ads data (PCA,KPCA)
+  2. UCI pima indians diabetes data (PCA,KPCA)
+  3. UCI wine data (PCA,KPCA,LDA)    

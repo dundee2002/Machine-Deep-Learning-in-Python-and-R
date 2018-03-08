@@ -6,15 +6,17 @@ End-to-end ML modelling process for regression problem
   5. Final model Saving into disk and loading
 
 Algorithms
-  1. Linear Regression
-  2. Ridge, Lasso, Elastic Net
-  3. K-Nearest Neighbors (KNN)
-  4. Support Vector Machine (SVM)
-  5. Bagged Multivariate Adaptive Regression Splines (MARS)
-  6. Decision Tree (Classification & Regression Trees; CART)
-  7. Bagged CART
-  8. Random Forest
-  9. Stochastic Gradient Boosting 
+  1. Linear Regression (Ordinary Least Squares; OLS)
+  2. Partial Least Square Regression (PLS)
+  3. Ridge, Lasso, Elastic Net
+  4. K-Nearest Neighbors (KNN)
+  5. Support Vector Machine (SVM)
+  6. Bagged Multivariate Adaptive Regression Splines (MARS)
+  7. Decision Tree (Classification & Regression Trees; CART)
+  8. Bagged CART
+  9. Random Forest
+  10. Stochastic Gradient Boosting 
 
 Examples
-  1. UCI Boston house price 
+  1. StatLib Calfornia housing price
+  2. UCI Boston house price 

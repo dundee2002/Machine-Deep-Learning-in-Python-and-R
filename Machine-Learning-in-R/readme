@@ -5,13 +5,14 @@ End-to-end modelling process
  - Hyperparameter tuning
  - Final model saving to disk and loading
 
+Regression/Classification
+ - Linear Regression, Partial Least Squares, Ridge, Lasso, Elastic Net, Logistic Regression, Linear Discriminant Analysis (LDA), Naive Bayes, KNN, SVM, Decision Tree, Random Forest, Gradient Boost, Multivariate Adaptive Regression Splines (MARS)
+Clustering
+ - K-Means clustering, Hierarchical clustering
+Dimensionality Reduction
+ - Principal Component Analysis (PCA), kernel PCA, LDA
 
 
-Install R:  https://www.r-project.org/
-
-
-Install R Studio
-https://www.rstudio.com/products/rstudio/
-
-Install R kernel for Jupyter Notebook
-https://irkernel.github.io/installation/
+Install R: https://www.r-project.org/
+Install R Studio: https://www.rstudio.com/products/rstudio/
+Install R kernel for Jupyter Notebook: https://irkernel.github.io/installation/

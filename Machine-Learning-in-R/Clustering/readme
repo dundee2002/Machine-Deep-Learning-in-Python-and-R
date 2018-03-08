@@ -8,5 +8,6 @@ Algorithms
   2. Hierarchical Clustering
 
 Examples
-  1. UCI Iris data (2 clusters)
-  2. kaggle mall customers data (5 clusters)
+  1. UCI Iris Data (3 clusters)
+  2. UCI Seeds Data (3 clusters)
+  3. kaggle Mall Customers Data (5 clusters)

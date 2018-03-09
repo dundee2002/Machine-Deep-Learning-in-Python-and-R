@@ -1,6 +1,6 @@
 ## Machine Learning
 ============
-End-to-end modelling process
+** End-to-end modelling process **
 ------------
 - Data loading and preprocessing: missing data, visualizing, scaling, text preprocessing, etc
 - Algorithm or architecture selection 

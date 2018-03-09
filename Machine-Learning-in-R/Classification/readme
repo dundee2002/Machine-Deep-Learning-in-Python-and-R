@@ -21,5 +21,6 @@ Algorithms
 Examples
   1. UCI pima indians diabetes data (binary class)
   2. UCI breast cancer data (binary class)
-  3. UCI iris data (multi-class)
-  4. UCI wine data (multi-class)
+  3. kaggle Titanic data (binary class)
+  4. UCI iris data (multi-class)
+  5. UCI wine data (multi-class)

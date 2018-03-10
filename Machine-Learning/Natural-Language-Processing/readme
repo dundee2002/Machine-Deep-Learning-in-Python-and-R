@@ -4,9 +4,9 @@ End-to-end Natural Language Processing (NLP)
   3. word scoring: binary, count, frequency, Term frequency–Inverse document frequency (TF-IDF)
 
 Examples:
-  1. crowdflower airline twitter sentiment data   https://www.crowdflower.com/data-for-everyone/
-  2. kaggle IMDB sentiment analysis data    https://www.kaggle.com/c/word2vec-nlp-tutorial
-  3. kaggle Yelp business rating data   https://www.kaggle.com/c/yelp-recsys-2013
-  4. UCI Spam Collection data   https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
-  5. UCI Yelp restaurant review data    https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
-  6. UCI Amazon product review data   https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
+  1. crowdflower airline twitter sentiment data  https://www.crowdflower.com/data-for-everyone/
+  2. kaggle IMDB sentiment analysis data  https://www.kaggle.com/c/word2vec-nlp-tutorial
+  3. kaggle Yelp business rating data  https://www.kaggle.com/c/yelp-recsys-2013
+  4. UCI Spam Collection data  https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+  5. UCI Yelp restaurant review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
+  6. UCI Amazon product review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#

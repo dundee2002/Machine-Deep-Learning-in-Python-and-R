@@ -30,6 +30,7 @@
 - Dimensionality Reduction: PCA, kernel PCA, LDA
 - Natural Laguage Processing
 - Association Rule Learning: Apriori, Eclat
+- Neural Network
 
 ## Deep Learning using Keras & Tensorflow
 - Artificial Neural Network (ANN)-Multiple Layer Perceptron (MLP)

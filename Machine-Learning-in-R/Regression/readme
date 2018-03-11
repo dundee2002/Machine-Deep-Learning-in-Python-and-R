@@ -18,6 +18,6 @@ Algorithms
   10. Stochastic Gradient Boosting 
 
 Examples
-  1. StatLib Calfornia housing price
-  2. UCI Boston house price 
-  3. Hyundai Cruise ship data
+  1. StatLib Calfornia Housing Price data  http://www.dcc.fc.up.pt/~ltorgo/Regression/DataSets.html
+  2. UCI Boston House Price data  https://archive.ics.uci.edu/ml/machine-learning-databases/housing/	
+  3. Hyundai Heavy Industry Cruise Ship data

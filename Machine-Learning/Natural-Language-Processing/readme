@@ -1,12 +1,13 @@
 End-to-end Natural Language Processing (NLP)
-  1. text cleaning: removing puntuations, numbers, stopwords and HTML tags, stemming
+  1. text cleaning: removing puntuations, numbers, stopwords HTML tags and URLs, stemming
   2. text tokenizing and creating a bag-of-words model
   3. word scoring: binary, count, frequency, Term frequency–Inverse document frequency (TF-IDF)
 
 Examples:
-  1. crowdflower airline twitter sentiment data  https://www.crowdflower.com/data-for-everyone/
-  2. kaggle IMDB sentiment analysis data  https://www.kaggle.com/c/word2vec-nlp-tutorial
-  3. kaggle Yelp business rating data  https://www.kaggle.com/c/yelp-recsys-2013
-  4. UCI Spam Collection data  https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
-  5. UCI Yelp restaurant review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
-  6. UCI Amazon product review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
+  1. CrowdFlower Twitter Airline Sentiment data  https://www.crowdflower.com/data-for-everyone/
+  2. CrowdFlower Twitter Global Warming Sentiment data  https://www.crowdflower.com/data-for-everyone/
+  3. Kaggle IMDB Sentiment data  https://www.kaggle.com/c/word2vec-nlp-tutorial
+  4. Kaggle Yelp Business Rating data  https://www.kaggle.com/c/yelp-recsys-2013
+  5. UCI Spam Collection data  https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+  6. UCI Yelp Restaurant Review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
+  7. UCI Amazon Product Review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#

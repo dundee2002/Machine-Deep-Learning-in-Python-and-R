@@ -16,14 +16,13 @@ Algorithms
   8. XGBoost
  
 Examples
-  1. ISLR college data (binary class)  https://www.kaggle.com/ishaanv/ISLR-Auto/data
-  2. kaggle HR data (binary class)  https://www.kaggle.com/giripujar/hr-analytics
-  3. kaggle titanic data (binary class)  https://www.kaggle.com/c/titanic
-  4. UCI pima indians diabetes data (binary class)  https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes
-  5. UCI breast cancer data (binary class)  https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+  1. ISLR college data (binary class) https://www.kaggle.com/ishaanv/ISLR-Auto/data
+  2. kaggle HR data (binary class) https://www.kaggle.com/giripujar/hr-analytics
+  3. kaggle titanic data (binary class) https://www.kaggle.com/c/titanic
+  4. UCI pima indians diabetes data (binary class) https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes
+  5. UCI breast cancer data (binary class) https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
   6. kaggle otto data (multi-class)  https://www.kaggle.com/c/otto-group-product-classification-challenge
-  7. UCI iris data (multi-class)  https://archive.ics.uci.edu/ml/datasets/iris
-  8. UCI wine data (multi-class)  https://archive.ics.uci.edu/ml/datasets/wine
-  9. CrowdFlower Twitter Global Warming Sentiment data  (binary class) https://www.crowdflower.com/data-for-everyone/
-  10. CrowdFlower Twitter Airline Sentiment data  (multi-class) https://www.crowdflower.com/data-for-everyone/
-
+  7. UCI iris data (multi-class) https://archive.ics.uci.edu/ml/datasets/iris
+  8. UCI wine data (multi-class) https://archive.ics.uci.edu/ml/datasets/wine
+  9. CrowdFlower Twitter Global Warming Sentiment data (binary class) https://www.crowdflower.com/data-for-everyone/
+  10. CrowdFlower Twitter Airline Sentiment data (multi-class) https://www.crowdflower.com/data-for-everyone/

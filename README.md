@@ -33,12 +33,12 @@
 - Neural Network
 
 ## Deep Learning using Keras & Tensorflow
-- Artificial Neural Network (ANN)-Multiple Layer Perceptron (MLP)
-  - Regression, Classification, Natural Laguage Processing
-- Convolutional Neural Network (CNN)
-  - Image Recognition, Natural Laguage Processing
-- Reccurent Neural Network (RNN)
-  - Time Series Forecast, Natural Laguage Processing 
+- Artificial Neural Network (ANN), Convolutional Neural Network (CNN), Reccurent Neural Network (RNN)
+- Regression: ANN
+- Classification: ANN, RNN, CNN
+- Image Recognition: CNN
+- Natural Laguage Processing: ANN, RNN, CNN
+- Time Series Forecast: RNN
 
 ## Big Data Machine Learning using PySpark MLlib
 - Regression

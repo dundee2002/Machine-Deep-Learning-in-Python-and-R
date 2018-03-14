@@ -6,5 +6,5 @@ End-to-end MLP modelling process for regression problem
   5. Final model Saving into disk and loading
 
 Examples
-  1. StatLib Calfornia housing price
-  2. UCI Boston house price
+  1. StatLib Calfornia housing price (ann)
+  2. UCI Boston house price (ann)

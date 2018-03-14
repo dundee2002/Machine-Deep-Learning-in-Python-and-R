@@ -1,0 +1,6 @@
+Examples:
+  1. Kaggle Dogs vs. Cats image data (cnn) https://www.kaggle.com/c/dogs-vs-cats/data
+  2. Keras MNIST database of handwritten digits (cnn) https://keras.io/datasets/
+  3. Keras CIFAR10 dataset of small images (cnn) https://keras.io/datasets/
+  4. Keras Fashion-MNIST database of fashion articles (cnn) https://keras.io/datasets/
+  5. CrowFlower Gender classifier data (cnn) https://www.crowdflower.com/data-for-everyone/

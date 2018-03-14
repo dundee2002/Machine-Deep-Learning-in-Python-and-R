@@ -1,6 +1,6 @@
 ## Machine Learning and Deep Learning
 ### End-to-end modelling process
-- Data loading and preprocessing: missing data, visualizing, scaling, text preprocessing, etc
+- Data loading and preprocessing: missing data, visualizing, scaling, text/image preprocessing, etc
 - Algorithm or architecture selection 
 - Model evaluation: train-test split, cross validation, metrics, etc
 - Hyperparameter tuning 
@@ -34,11 +34,11 @@
 
 ## Deep Learning using Keras & Tensorflow
 - Artificial Neural Network (ANN)-Multiple Layer Perceptron (MLP)
-- Regression, Classification, Natural Laguage Processing
+  - Regression, Classification, Natural Laguage Processing
 - Convolutional Neural Network (CNN)
-- Image Recognition, Natural Laguage Processing
+  - Image Recognition, Natural Laguage Processing
 - Reccurent Neural Network (RNN)
-- Time Series Forecast, Natural Laguage Processing 
+  - Time Series Forecast, Natural Laguage Processing 
 
 ## Big Data Machine Learning using PySpark MLlib
 - Regression

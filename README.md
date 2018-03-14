@@ -34,11 +34,11 @@
 
 ## Deep Learning using Keras & Tensorflow
 - Artificial Neural Network (ANN), Convolutional Neural Network (CNN), Reccurent Neural Network (RNN)
-- Regression: ANN
+- Regression: Artificial Neural Network
 - Classification: ANN, RNN, CNN
-- Image Recognition: CNN
+- Image Recognition: Convolutional Neural Network
 - Natural Laguage Processing: ANN, RNN, CNN
-- Time Series Forecast: RNN
+- Time Series Forecast: Reccurent Neural Network
 
 ## Big Data Machine Learning using PySpark MLlib
 - Regression

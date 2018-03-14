@@ -6,9 +6,9 @@ End-to-end MLP modeling process for classification problem
   5. Final model Saving into disk and loading
 
 Examples
-  1. UCI breast cancer data (binary class, ann)
-  2. UCI iris data (muiti-class, ann)
-  3. UCI wine data (muiti-class, ann)
-  4. CrowdFlower Twitter Global Warming Sentiment data (binary class, ann/cnn/rnn)
-  5. CrowdFlower Twitter Airline Sentiment (multi-class, ann/cnn/rnn)
-  6. CrowFlower Gender Classifier data (binary class, ann/cnn/rnn)
+  1. UCI breast cancer data (binary class, ann) https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+  2. UCI iris data (muiti-class, ann) https://archive.ics.uci.edu/ml/datasets/iris
+  3. UCI wine data (muiti-class, ann) https://archive.ics.uci.edu/ml/datasets/wine
+  4. CrowdFlower Twitter Global Warming Sentiment data (binary class, ann/cnn/rnn) https://www.crowdflower.com/data-for-everyone/
+  5. CrowdFlower Twitter Airline Sentiment (multi-class, ann/cnn/rnn) https://www.crowdflower.com/data-for-everyone/
+  6. CrowdFlower Gender Classifier data (binary class, ann/cnn/rnn) https://www.crowdflower.com/data-for-everyone/

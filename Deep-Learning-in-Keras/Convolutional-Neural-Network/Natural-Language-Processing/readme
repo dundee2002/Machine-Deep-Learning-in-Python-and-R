@@ -1,3 +1,5 @@
 Examples:
   1. keras IMDB sentiment analysis data (Embed+Conv1D)
   2. keras IMDB sentiment analysis data (Embed+Conv1D, 3 Channels)
+  3. CrowdFlower Twitter Airline Sentiment data  https://www.crowdflower.com/data-for-everyone/
+  4. CrowdFlower Twitter Global Warming Sentiment data  https://www.crowdflower.com/data-for-everyone/

@@ -1,5 +1,5 @@
 End-to-end MLP modeling process for classification problem
-  1. Data loading and preprocessing: missing data, visualization, scaling
+  1. Data loading and preprocessing: missing data, visualization, scaling, text preprocessing,
   2. Baseline model architecture selection: hidden layers, neurons
   3. Model evaluation: train-test split, k-fold cross validation, stratified cv, learning curves, metrics (accuracy,recall,precision,f1-score,confusion matrix)
   4. Hyperparameter tuning: grid search (batch_size, epochs, initializer, optimizer, activation function, dropout, etc)
@@ -9,3 +9,5 @@ Examples
   1. UCI breast cancer data (binary class)
   2. UCI iris data (muiti-class)
   3. UCI wine data (muiti-class)
+  4. CrowdFlower Twitter Global Warming Sentiment data (binary class)
+  5. CrowdFlower Twitter Airline Sentiment (multi-class)

@@ -1,5 +1,5 @@
 End-to-end ML Modeling process for classification problem
-  1. Data reading and preprocessing: missing data, visualization, scaling
+  1. Data reading and preprocessing: missing data, visualization, scaling, text preprocessing
   2. Algorithm selection: LogisticRegression, LinearDiscriminantAnalysis, KNeighbors, GaussianNB, SVM, DecisionTree, RandomForest, XGBoost
   3. Model Evaluation: train-test split, k-fold cross validation, stratified cv, metrics (accuracy,recall,precision,f1-score,confusion matrix)
   4. Hyperparameter tuning: grid search
@@ -16,11 +16,14 @@ Algorithms
   8. XGBoost
  
 Examples
-  1. ISLR college data (binary class)
-  2. kaggle HR data (binary class)
-  3. kaggle titanic data (binary class)
-  4. UCI pima indians diabetes data (binary class)
-  5. UCI breast cancer data (binary class)
-  6. kaggle otto data (multi-class)
-  7. UCI iris data (multi-class)
-  8. UCI wine data (multi-class)
+  1. ISLR college data (binary class)  https://www.kaggle.com/ishaanv/ISLR-Auto/data
+  2. kaggle HR data (binary class)  https://www.kaggle.com/giripujar/hr-analytics
+  3. kaggle titanic data (binary class)  https://www.kaggle.com/c/titanic
+  4. UCI pima indians diabetes data (binary class)  https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes
+  5. UCI breast cancer data (binary class)  https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+  6. kaggle otto data (multi-class)  https://www.kaggle.com/c/otto-group-product-classification-challenge
+  7. UCI iris data (multi-class)  https://archive.ics.uci.edu/ml/datasets/iris
+  8. UCI wine data (multi-class)  https://archive.ics.uci.edu/ml/datasets/wine
+  9. CrowdFlower Twitter Global Warming Sentiment data  (binary class) https://www.crowdflower.com/data-for-everyone/
+  10. CrowdFlower Twitter Airline Sentiment data  (multi-class) https://www.crowdflower.com/data-for-everyone/
+

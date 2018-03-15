@@ -25,12 +25,11 @@
 - Association Rule Learning
 
 ## Machine Learning using R
-- Regression/Classification: Linear Regression, Partial Least Squares, Ridge, Lasso, Elastic Net, Logistic Regression, LDA, NB, KNN, SVM, Decision Tree, Bagged Trees, Random Forest, Gradient Boost, Multivariate Adaptive Regression Splines (MARS), Learning Vector Quantization (LVQ)
+- Regression/Classification: Linear Regression, Partial Least Squares, Ridge, Lasso, Elastic Net, Logistic Regression, LDA, NB, KNN, SVM, Decision Tree, Bagged Trees, Random Forest, Gradient Boost, Multivariate Adaptive Regression Splines (MARS), Learning Vector Quantization (LVQ), Neural Network
 - Clustering: K-Means clustering, Hierarchical clustering
 - Dimensionality Reduction: PCA, kernel PCA, LDA
 - Natural Laguage Processing
-- Association Rule Learning: Apriori, Eclat
-- Neural Network
+- Association Rule Learning: Apriori, Eclat 
 
 ## Deep Learning using Keras & Tensorflow
 - Artificial Neural Network (ANN), Convolutional Neural Network (CNN), Reccurent Neural Network (RNN)

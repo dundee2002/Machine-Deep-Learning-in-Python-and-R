@@ -8,14 +8,17 @@ End-to-end ML modelling process for regression problem
 Algorithms
   1. Linear Regression (Ordinary Least Squares; OLS)
   2. Partial Least Square Regression (PLS)
-  3. Ridge, Lasso, Elastic Net
-  4. K-Nearest Neighbors (KNN)
-  5. Support Vector Machine (SVM)
-  6. Bagged Multivariate Adaptive Regression Splines (MARS)
-  7. Decision Tree (Classification & Regression Trees; CART)
-  8. Bagged CART
-  9. Random Forest
-  10. Stochastic Gradient Boosting 
+  3. Ridge 
+  4. Lasso 
+  5. Elastic Net
+  6. K-Nearest Neighbors (KNN)
+  7. Support Vector Machine (SVM)
+  8. Bagged Multivariate Adaptive Regression Splines (MARS)
+  9. Decision Tree (Classification & Regression Trees; CART)
+  10. Bagged CART
+  11. Random Forest
+  12. Stochastic Gradient Boosting
+  13. Neural Network 
 
 Examples
   1. StatLib Calfornia Housing Price data  http://www.dcc.fc.up.pt/~ltorgo/Regression/DataSets.html

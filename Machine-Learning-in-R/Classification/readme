@@ -7,17 +7,19 @@ End-to-end ML Modeling process for classification problem
 
 Algorithms
   1. Logistic Regression
-  2. Lasso, Ridge, Elastic Net
-  3. Linear Discriminant Analysis (LDA)
-  4. K-Nearest Neighbors (KNN)
-  5. Naive Bayes (NB)
-  6. Support Vector Machine (SVM)
-  7. Decision Tree (Classification & Regression Trees; CART)
-  8. C5.0
-  9. Bagged CART
-  10. Random Forest
-  11. Stochastic Gradient Boosting
-  12. Learning Vector Quantization (LVQ)
+  2. Lasso
+  3. Ridge
+  4. Elastic Net
+  5. Linear Discriminant Analysis (LDA)
+  6. K-Nearest Neighbors (KNN)
+  7. Naive Bayes (NB)
+  8. Support Vector Machine (SVM)
+  9. Decision Tree (Classification & Regression Trees; CART)
+  10. C5.0
+  11. Bagged CART
+  12. Random Forest
+  13. Stochastic Gradient Boosting
+  14. Learning Vector Quantization (LVQ)
  
 Examples
   1. UCI pima indians diabetes data (binary class)

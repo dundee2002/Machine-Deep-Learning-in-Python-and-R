@@ -1,6 +1,6 @@
 End-to-end ML modelling process for regression problem
   1. Data reading and preprocessing: missing data, visualizing, scaling
-  2. Algorithm selection: LinearRegression, Ridge, Lasso, KNeighbors, SVM, Decision Tree, RandomForest, XGBoost
+  2. Algorithm selection
   3. Model Evaluation: train-test split, k-fold cross validation, metrics (mae,mse,rmse,r2-score)
   4. Hyperparameter tuning: grid search
   5. Final model Saving into disk and loading
@@ -9,11 +9,16 @@ Algorithms
   1. Linear Regression
   2. Ridge
   3. Lasso
-  4. K-Nearest Neighbors (KNN)
-  5. Support Vector Machine (SVM)
-  6. Decision Tree
-  7. Random Forest
-  8. XGBoost  
+  4. ElasticNet
+  5. K-Nearest Neighbors (KNN)
+  6. Support Vector Machine (SVM)
+  7. Decision Tree
+  8. Bagged Trees
+  9. Extra Trees
+  10. Random Forest
+  11. AdaBoost
+  12. Gradient Boost
+  13. XGBoost
 
 Examples
   1. StatLib Calfornia Housing Price data  http://www.dcc.fc.up.pt/~ltorgo/Regression/DataSets.html

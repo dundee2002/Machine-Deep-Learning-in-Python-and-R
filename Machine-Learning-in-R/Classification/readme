@@ -17,10 +17,11 @@ Algorithms
   9. Bagged CART
   10. Random Forest
   11. Stochastic Gradient Boosting
+  12. Learning Vector Quantization (LVQ)
  
 Examples
   1. UCI pima indians diabetes data (binary class)
   2. UCI breast cancer data (binary class)
-  3. kaggle Titanic data (binary class)
+  3. Kaggle Titanic data (binary class)
   4. UCI iris data (multi-class)
   5. UCI wine data (multi-class)

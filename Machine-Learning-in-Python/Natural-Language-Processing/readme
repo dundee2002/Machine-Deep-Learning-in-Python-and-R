@@ -1,5 +1,5 @@
-End-to-end Natural Language Processing (NLP)
-  1. text cleaning: removing puntuations, numbers, stopwords HTML tags and URLs, stemming
+﻿End-to-end Natural Language Processing (NLP)
+  1. text cleaning: removing puntuations, numbers, stopwords, HTML tags and URLs, stemming
   2. text tokenizing and creating a bag-of-words model
   3. word scoring: binary, count, frequency, Term frequency–Inverse document frequency (TF-IDF)
 

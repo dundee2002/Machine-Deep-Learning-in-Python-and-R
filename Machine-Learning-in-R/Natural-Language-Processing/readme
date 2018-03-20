@@ -1,4 +1,9 @@
+End-to-end Natural Language Processing (NLP)
+  1. text cleaning: removing puntuations, numbers, stopwords, HTML tags and URLs, stemming
+  2. text tokenizing and creating a bag-of-words model
+
 Examples:
-  1. UCI Spam Collection data
-  2. UCI Yelp restaurant review data
-  3. UCI Amazon product review data
+  1. UCI Spam Collection data  https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+  2. UCI Yelp Restaurant Review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
+  3. UCI Amazon Product Review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
+  4. CrowdFlower Twitter Global Warming Sentiment data  https://www.crowdflower.com/data-for-everyone/

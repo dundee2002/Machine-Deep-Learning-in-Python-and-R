@@ -22,8 +22,9 @@ Algorithms
   14. Learning Vector Quantization (LVQ)
  
 Examples
-  1. UCI pima indians diabetes data (binary class)
-  2. UCI breast cancer data (binary class)
-  3. Kaggle Titanic data (binary class)
-  4. UCI iris data (multi-class)
-  5. UCI wine data (multi-class)
+  1. UCI pima indians diabetes data (binary class) https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes
+  2. UCI breast cancer data (binary class) https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+  3. Kaggle Titanic data (binary class) https://www.kaggle.com/c/titanic
+  4. UCI iris data (multi-class) https://archive.ics.uci.edu/ml/datasets/iris
+  5. UCI wine data (multi-class) https://archive.ics.uci.edu/ml/datasets/wine
+  6. CrowdFlower Twitter Global Warming Sentiment data (binary class) https://www.crowdflower.com/data-for-everyone/

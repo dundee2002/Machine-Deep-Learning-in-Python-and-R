@@ -4,11 +4,12 @@
   3. word scoring: binary, count, frequency, Term frequency–Inverse document frequency (TF-IDF)
 
 Examples:
-  1. CrowdFlower Twitter Airline Sentiment data  https://www.crowdflower.com/data-for-everyone/
-  2. CrowdFlower Twitter Global Warming Sentiment data  https://www.crowdflower.com/data-for-everyone/
-  3. Kaggle IMDB Sentiment data  https://www.kaggle.com/c/word2vec-nlp-tutorial
-  4. Kaggle Yelp Business Rating data  https://www.kaggle.com/c/yelp-recsys-2013
-  5. UCI Spam Collection data  https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
-  6. UCI Yelp Restaurant Review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
-  7. UCI Amazon Product Review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
+  1. UCI Spam Collection data  https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+  2. UCI Yelp Restaurant Review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
+  3. UCI Amazon Product Review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
+  4. Kaggle IMDB Sentiment data  https://www.kaggle.com/c/word2vec-nlp-tutorial
+  5. Kaggle Yelp Business Rating data  https://www.kaggle.com/c/yelp-recsys-2013
+  6. CrowdFlower Twitter Airline Sentiment data  https://www.crowdflower.com/data-for-everyone/
+  7. CrowdFlower Twitter Global Warming Sentiment data  https://www.crowdflower.com/data-for-everyone/
   8. CrowdFlower Corporate Messaging data  https://www.crowdflower.com/data-for-everyone/
+  9. CrowdFlower Coachella 2015 Twitter sentiment data https://www.crowdflower.com/data-for-everyone/

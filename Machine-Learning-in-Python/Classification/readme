@@ -28,7 +28,8 @@ Examples
   6. Kaggle HR data (binary class) https://www.kaggle.com/giripujar/hr-analytics
   7. Kaggle titanic data (binary class) https://www.kaggle.com/c/titanic
   8. Kaggle otto data (multi-class)  https://www.kaggle.com/c/otto-group-product-classification-challenge
-  9. CrowdFlower Twitter Global Warming Sentiment data (binary class) https://www.crowdflower.com/data-for-everyone/
-  10. CrowdFlower Twitter Airline Sentiment data (multi-class) https://www.crowdflower.com/data-for-everyone/
-  11. CrowdFlower Corporate Messaging data (multi-class) https://www.crowdflower.com/data-for-everyone/
-  12. CrowdFlower Coachella 2015 Twitter sentiment data (multi-class) https://www.crowdflower.com/data-for-everyone/
+  9. Kaggle Toxic Comment Classification Challenge (binary class) https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+  10. CrowdFlower Twitter Global Warming Sentiment data (binary class) https://www.crowdflower.com/data-for-everyone/
+  11. CrowdFlower Twitter Airline Sentiment data (multi-class) https://www.crowdflower.com/data-for-everyone/
+  12. CrowdFlower Corporate Messaging data (multi-class) https://www.crowdflower.com/data-for-everyone/
+  13. CrowdFlower Coachella 2015 Twitter sentiment data (multi-class) https://www.crowdflower.com/data-for-everyone/

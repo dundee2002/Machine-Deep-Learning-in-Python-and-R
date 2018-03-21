@@ -3,4 +3,4 @@ Examples:
   2. Keras IMDB sentiment analysis data (3ch-cnn) https://keras.io/datasets/
   3. CrowdFlower Twitter Airline Sentiment data (ann/cnn/rnn)  https://www.crowdflower.com/data-for-everyone/
   4. CrowdFlower Twitter Global Warming Sentiment data (ann/cnn/rnn)  https://www.crowdflower.com/data-for-everyone/
-  5. Kaggle Toxic Comment Classification Challenge (ann/cnn) https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+  5. Kaggle Toxic Comment Classification Challenge (ann/cnn/lstm/gru) https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge

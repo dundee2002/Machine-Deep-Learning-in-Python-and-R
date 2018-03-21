@@ -9,7 +9,8 @@ Examples:
   3. UCI Amazon Product Review data  https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
   4. Kaggle IMDB Sentiment data  https://www.kaggle.com/c/word2vec-nlp-tutorial
   5. Kaggle Yelp Business Rating data  https://www.kaggle.com/c/yelp-recsys-2013
-  6. CrowdFlower Twitter Airline Sentiment data  https://www.crowdflower.com/data-for-everyone/
-  7. CrowdFlower Twitter Global Warming Sentiment data  https://www.crowdflower.com/data-for-everyone/
-  8. CrowdFlower Corporate Messaging data  https://www.crowdflower.com/data-for-everyone/
-  9. CrowdFlower Coachella 2015 Twitter sentiment data https://www.crowdflower.com/data-for-everyone/
+  6. Kaggle Toxic Comment Classification Challenge https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+  7. CrowdFlower Twitter Airline Sentiment data  https://www.crowdflower.com/data-for-everyone/
+  8. CrowdFlower Twitter Global Warming Sentiment data  https://www.crowdflower.com/data-for-everyone/
+  9. CrowdFlower Corporate Messaging data  https://www.crowdflower.com/data-for-everyone/
+  10. CrowdFlower Coachella 2015 Twitter sentiment data https://www.crowdflower.com/data-for-everyone/

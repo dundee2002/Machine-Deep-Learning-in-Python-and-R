@@ -13,3 +13,4 @@ Examples
   5. CrowdFlower Twitter Airline Sentiment (multi-class, ann/cnn/rnn) https://www.crowdflower.com/data-for-everyone/
   6. CrowdFlower Gender Classifier data (binary class, cnn) https://www.crowdflower.com/data-for-everyone/
   7. Kaggle Dogs vs. Cats image data (binary class, cnn) https://www.kaggle.com/c/dogs-vs-cats/data
+  8. Kaggle Toxic Comment Classification Challenge (binary class, ann/cnn) https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge

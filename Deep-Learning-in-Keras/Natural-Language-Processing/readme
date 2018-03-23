@@ -1,10 +1,9 @@
 Examples:
   1. Keras IMDB sentiment analysis data (dense only, conv+dense, lstm, bidectional lstm, cnn+lstm) https://keras.io/datasets/
   2. Keras IMDB sentiment analysis data (3ch-conv+dense) https://keras.io/datasets/
-  3. CrowdFlower Twitter Airline Sentiment data (dense only, conv[or lstm]+dense, cnn+lstm+dense)  https://www.crowdflower.com/data-for-everyone/
-  4. CrowdFlower Twitter Global Warming Sentiment data (dense only, conv[or lstm]+dense, cnn+lstm+dense)  https://www.crowdflower.com/data-for-everyone/
-  5. Kaggle Toxic Comment Classification Challenge (dense only, conv[or lstm or gru]+dense, cnn+lstm[or gru]+dense
-) https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+  3. CrowdFlower Twitter Airline Sentiment data (dense only, conv[or lstm]+dense, cnn+lstm+dense) https://www.crowdflower.com/data-for-everyone/
+  4. CrowdFlower Twitter Global Warming Sentiment data (dense only, conv[or lstm]+dense, cnn+lstm+dense) https://www.crowdflower.com/data-for-everyone/
+  5. Kaggle Toxic Comment Classification Challenge (dense only, conv[or lstm or gru]+dense, cnn+lstm[or gru]+dense) https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
 
 

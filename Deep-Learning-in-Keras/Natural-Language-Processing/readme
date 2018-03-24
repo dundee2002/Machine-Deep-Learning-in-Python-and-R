@@ -1,12 +1,19 @@
+End-to-end Natural Language Processing (NLP)
+  1. text cleaning: removing puntuations, numbers, stopwords, HTML tags and URLs, stemming
+  2. text tokenizing, word embedding and pretrained word embedding (e.g., GloVe)
+
 Examples:
   1. Keras IMDB sentiment analysis data https://keras.io/datasets/
-     - dense only, conv+dense, lstm, bidirectional lstm, conv+lstm, 3ch-conv+dense
+     - embed+dense, embed+conv+dense, embed+lstm, embed+bidirectional lstm, embed+conv+lstm, embed+3ch-conv+dense
   2. CrowdFlower Twitter Airline Sentiment data https://www.crowdflower.com/data-for-everyone/
-     - dense only, conv(or lstm)+dense, conv+lstm+dense, GloVe+lstm+dense
+     - embed+dense, embed+conv(or lstm)+dense, embed+conv+lstm+dense, GloVe+lstm+dense
   3. CrowdFlower Twitter Global Warming Sentiment data https://www.crowdflower.com/data-for-everyone/
-     - dense only, conv(or lstm)+dense, conv+lstm+dense
+     - embed+dense, embed+conv(or lstm)+dense, embed+conv+lstm+dense
   4. Kaggle Toxic Comment Classification Challenge https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
-     - dense only, conv(or lstm or gru)+dense, conv+lstm(or gru)+dense, GloVe+conv+lstm+dense
+     - embed+dense, embed+conv(or lstm or gru)+dense, embed+conv+lstm(or gru)+dense, GloVe+conv+lstm+dense
+  5. CrowdFlower Corporate Messaging data  https://www.crowdflower.com/data-for-everyone/
+     - embed+dense, embed+conv+dense, embed+lstm, embed+conv+lstm, GloVe+bidirectional lstm
+ 
 
 
 

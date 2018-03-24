@@ -1,9 +1,12 @@
 Examples:
-  1. Keras IMDB sentiment analysis data (dense only, conv+dense, lstm, bidirectional lstm, conv+lstm) https://keras.io/datasets/
-  2. Keras IMDB sentiment analysis data (3ch-conv+dense) https://keras.io/datasets/
-  3. CrowdFlower Twitter Airline Sentiment data (dense only, conv[or lstm]+dense, conv+lstm+dense, GloVe+lstm+dense) https://www.crowdflower.com/data-for-everyone/
-  4. CrowdFlower Twitter Global Warming Sentiment data (dense only, conv[or lstm]+dense, conv+lstm+dense) https://www.crowdflower.com/data-for-everyone/
-  5. Kaggle Toxic Comment Classification Challenge (dense only, conv[or lstm or gru]+dense, conv+lstm[or gru]+dense, GloVe+conv+lstm+dense) https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+  1. Keras IMDB sentiment analysis data https://keras.io/datasets/
+     - dense only, conv+dense, lstm, bidirectional lstm, conv+lstm, 3ch-conv+dense
+  2. CrowdFlower Twitter Airline Sentiment data https://www.crowdflower.com/data-for-everyone/
+     - dense only, conv(or lstm)+dense, conv+lstm+dense, GloVe+lstm+dense
+  3. CrowdFlower Twitter Global Warming Sentiment data https://www.crowdflower.com/data-for-everyone/
+     - dense only, conv(or lstm)+dense, conv+lstm+dense
+  4. Kaggle Toxic Comment Classification Challenge https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+     - dense only, conv(or lstm or gru)+dense, conv+lstm(or gru)+dense, GloVe+conv+lstm+dense
 
 
 

@@ -1,5 +1,10 @@
+Network architectures
+  1. ANN: dense
+  2. CNN: conv + dense
+  3. Pretrained: vgg16 + dense
+
 Examples:
-  1. Kaggle Dogs vs. Cats image data (cnn) https://www.kaggle.com/c/dogs-vs-cats/data
+  1. Kaggle Dogs vs. Cats image data (cnn, vgg16) https://www.kaggle.com/c/dogs-vs-cats/data
   2. Keras MNIST database of handwritten digits (ann,cnn) https://keras.io/datasets/
   3. Keras CIFAR10 dataset of small images (cnn) https://keras.io/datasets/
   4. Keras Fashion-MNIST database of fashion articles (cnn) https://keras.io/datasets/

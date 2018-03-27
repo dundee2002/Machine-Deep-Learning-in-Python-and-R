@@ -17,7 +17,7 @@
 - Association Rule Learning
 
 ## Machine Learning using Python scikit-learn library
-- Regression/Classification: Linear Regression, Ridge, Lasso, Elastic Net, Logistic Regression, Linear Discriminant Analysis (LDA), Naive Bayes (NB), K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, Bagged Trees, Extra Trees, Random Forest, AdaBoost, Gradient Boost, XGBoost
+- Regression/Classification: Linear Regression, Ridge, Lasso, Elastic Net, Logistic Regression, Linear Discriminant Analysis (LDA), Naive Bayes (NB), K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, Bagged Trees, Extra Trees, Random Forest, AdaBoost, Gradient Boost, XGBoost, Neural Network
 - Clustering: K-Means clustering, Hierarchical clustering
 - Dimensionality Reduction: Principal Component Analysis (PCA), kernel PCA, LDA
 - Natural Laguage Processing

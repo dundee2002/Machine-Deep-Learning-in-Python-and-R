@@ -14,10 +14,12 @@ Algorithms
   6. Support Vector Machine (SVM)
   7. Random Forest
   8. Bagged Decision Trees
-  9. AdaBoost
-  10. Gradient Boosting		
-  11. XGBoost
-  12. Voting Ensemble
+  9. Extra Trees
+  10. AdaBoost
+  11. Gradient Boosting		
+  12. XGBoost
+  13. Neural Network
+  14. Voting Ensemble
  
 Examples
   1. ISLR college data (binary class) https://www.kaggle.com/ishaanv/ISLR-Auto/data
